@@ -1,0 +1,25 @@
+  joomla:
+    restart: always
+    hostname: localhost
+    image: apache2
+    build:
+      context: ./apache2
+      dockerfile: ./Dockerfile
+    container_name: ${JOOMLA_CONTAINER_NAME}
+    depends_on:
+      - db
+    volumes:
+      - ./joomla:/var/www/html
+    ports:
+      - "8080:80"
+    networks:
+      - joomla-net
+    deploy:
+      resources:
+        limits:
+          cpus: '1.5'
+          memory: 2000M
+        reservations:
+          cpus: '1'
+          memory: 2000M
+    cpuset: "1"
