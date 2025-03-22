@@ -8,7 +8,7 @@ services:
       context: ./apache2
       dockerfile: ./Dockerfile
     container_name: ${JOOMLA_CONTAINER_NAME}
-    depends_on:
+    links:
       - db
     volumes:
       - ./joomla:/var/www/html
@@ -29,6 +29,7 @@ services:
   db:
     image: mysql:8.0.13
     restart: always
+    hostname: db
     environment:
       MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
       MYSQL_DATABASE: ${MYSQL_DB_NAME}
@@ -38,6 +39,15 @@ services:
       - bebmeccanica-mysql:/var/lib/mysql
     networks:
       - joomla-net
+    deploy:
+      resources:
+        limits:
+          cpus: '1.5'
+          memory: 2000M
+        reservations:
+          cpus: '1'
+          memory: 2000M
+    cpuset: "1"
 
 
   phpmyadmin:
@@ -58,6 +68,3 @@ networks:
 
 volumes:
   bebmeccanica-mysql:
-
-
-  

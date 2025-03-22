@@ -42,7 +42,7 @@ class JConfig {
 	public $smtphost = 'localhost';
 	public $smtpsecure = 'none';
 	public $smtpport = 25;
-	public $caching = 0;
+	public $caching = 2;
 	public $cache_handler = 'file';
 	public $cachetime = 15;
 	public $cache_platformprefix = false;
@@ -84,7 +84,7 @@ class JConfig {
 	public $replytoname = '';
 	public $MetaRights = '';
 	public $sitename_pagetitles = 0;
-	public $session_filesystem_path = '';
+	public $session_filesystem_path = '/';
 	public $session_memcached_server_host = 'localhost';
 	public $session_memcached_server_port = 11211;
 	public $session_redis_persist = 1;
@@ -92,7 +92,7 @@ class JConfig {
 	public $session_redis_server_port = 6379;
 	public $session_redis_server_db = 0;
 	public $session_metadata_for_guest = true;
-	public $frontediting = 1;
+	public $frontediting = 2;
 	public $log_everything = 0;
 	public $log_deprecated = 0;
 	public $log_priorities = array('0' => 'all');
