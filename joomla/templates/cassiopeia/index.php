@@ -309,7 +309,7 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
     <jdoc:include type="modules" name="debug" style="none" />
     <script>
        document.addEventListener("DOMContentLoaded",function(){
-            if(window.location.href==="http://localhost:8080/index.php" || window.location.href==="http://localhost:8080/index.php/home"){
+            if(window.location.href==="http://localhost:8080/index.php" || window.location.href==="http://localhost:8080/index.php/home" || window.location.href==="http://localhost:8080/"  || window.location.href==="http://localhost:8080"){
                 document.querySelector(".container-component").style.display="none";
             }
        });
