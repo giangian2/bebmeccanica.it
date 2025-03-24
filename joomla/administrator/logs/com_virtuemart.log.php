@@ -2629,3 +2629,823 @@
 #2 /var/www/html/components/com_virtuemart/views/cart/tmpl/bs5-default_cartpricelist.php(30): VmMediaHandler-&gt;displayMediaThumb()
 #3 /var/www/html/libraries/src/MVC/View/HtmlView.php(416): include(&#039;/var/www/html/c...&#039;)
 &lt;/pre&gt;
+2025-03-24 12:12:31 ERROR vmError: File not found /var/www/html/images/virtuemart/product/beb-101174/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/modules/mod_virtuemart_product/tmpl/default.php(82): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/modules/mod_virtuemart_product/helper.php(66): require(&#039;/var/www/html/m...&#039;)
+#3 /var/www/html/libraries/src/Cache/Controller/CallbackController.php(120): mod_virtuemart_product::displayProductsMod()
+&lt;/pre&gt;
+2025-03-24 12:12:31 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/beb-101174/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/modules/mod_virtuemart_product/tmpl/default.php(82): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/modules/mod_virtuemart_product/helper.php(66): require(&#039;/var/www/html/m...&#039;)
+&lt;/pre&gt;
+2025-03-24 12:12:31 ERROR vmError: File not found /var/www/html/images/virtuemart/product/beb-101189/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/modules/mod_virtuemart_product/tmpl/default.php(82): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/modules/mod_virtuemart_product/helper.php(66): require(&#039;/var/www/html/m...&#039;)
+#3 /var/www/html/libraries/src/Cache/Controller/CallbackController.php(120): mod_virtuemart_product::displayProductsMod()
+&lt;/pre&gt;
+2025-03-24 12:12:31 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/beb-101189/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/modules/mod_virtuemart_product/tmpl/default.php(82): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/modules/mod_virtuemart_product/helper.php(66): require(&#039;/var/www/html/m...&#039;)
+&lt;/pre&gt;
+2025-03-24 12:12:31 ERROR vmError: File not found /var/www/html/images/virtuemart/product/beb-101190/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/modules/mod_virtuemart_product/tmpl/default.php(82): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/modules/mod_virtuemart_product/helper.php(66): require(&#039;/var/www/html/m...&#039;)
+#3 /var/www/html/libraries/src/Cache/Controller/CallbackController.php(120): mod_virtuemart_product::displayProductsMod()
+&lt;/pre&gt;
+2025-03-24 12:12:31 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/beb-101190/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/modules/mod_virtuemart_product/tmpl/default.php(82): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/modules/mod_virtuemart_product/helper.php(66): require(&#039;/var/www/html/m...&#039;)
+&lt;/pre&gt;
+2025-03-24 12:12:31 ERROR vmError: File not found /var/www/html/images/virtuemart/product/beb-101191/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/modules/mod_virtuemart_product/tmpl/default.php(82): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/modules/mod_virtuemart_product/helper.php(66): require(&#039;/var/www/html/m...&#039;)
+#3 /var/www/html/libraries/src/Cache/Controller/CallbackController.php(120): mod_virtuemart_product::displayProductsMod()
+&lt;/pre&gt;
+2025-03-24 12:12:31 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/beb-101191/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/modules/mod_virtuemart_product/tmpl/default.php(82): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/modules/mod_virtuemart_product/helper.php(66): require(&#039;/var/www/html/m...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/category/manubri e semimanubri.png&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-categories.php(40): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(67): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/category/manubri e semimanubri.png&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-categories.php(40): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/category/image.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-categories.php(40): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(67): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/category/image.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-categories.php(40): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006779/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006779/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006778/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006778/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006775/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006775/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006771/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006771/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006770/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006770/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006769/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006769/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006768/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006768/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006767/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006767/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006765/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006765/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006764/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006764/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006763/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006763/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006762/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006762/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006760/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006760/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006759/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006759/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006758/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006758/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006757/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006757/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006756/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006756/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006755/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006755/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006754/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006754/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006752/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006752/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006751/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006751/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006750/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006750/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006749/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006749/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006748/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 13:55:25 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006748/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/category/manubri e semimanubri.png&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-categories.php(40): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(67): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/category/manubri e semimanubri.png&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-categories.php(40): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/category/image.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-categories.php(40): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(67): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/category/image.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-categories.php(40): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006779/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006779/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006778/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006778/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006775/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006775/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006771/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006771/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006770/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006770/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006769/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006769/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006768/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006768/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006767/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006767/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006765/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006765/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006764/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006764/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006763/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006763/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006762/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006762/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006760/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006760/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006759/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006759/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006758/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006758/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006757/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006757/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006756/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006756/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006755/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006755/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006754/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006754/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006752/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006752/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006751/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006751/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006750/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006750/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006749/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006749/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006748/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:14:36 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006748/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/category/manubri e semimanubri.png&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-categories.php(40): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(67): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/category/manubri e semimanubri.png&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-categories.php(40): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/category/image.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-categories.php(40): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(67): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/category/image.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-categories.php(40): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006779/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006779/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006778/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006778/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006775/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006775/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006771/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006771/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006770/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006770/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006769/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006769/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006768/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006768/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006767/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006767/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006765/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006765/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006764/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006764/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006763/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006763/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006762/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006762/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006760/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006760/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006759/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006759/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006758/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006758/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006757/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006757/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006756/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006756/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006755/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006755/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006754/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006754/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006752/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006752/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006751/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006751/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006750/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006750/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006749/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006749/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: File not found /var/www/html/images/virtuemart/product/R2024-0006748/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(642): vmError()
+#1 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#2 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+#3 /var/www/html/components/com_virtuemart/views/category/tmpl/bs5-default.php(179): shopFunctionsF::renderVmSubLayout()
+&lt;/pre&gt;
+2025-03-24 14:37:39 ERROR vmError: Couldnt create thumb, file not found /var/www/html/images/virtuemart/product/R2024-0006748/1.jpg&lt;pre&gt;#0 /var/www/html/administrator/components/com_virtuemart/helpers/image.php(194): vmError()
+#1 /var/www/html/administrator/components/com_virtuemart/helpers/mediahandler.php(673): VmImage-&gt;createThumb()
+#2 /var/www/html/components/com_virtuemart/sublayouts/bs5-products.php(84): VmMediaHandler-&gt;displayMediaThumb()
+#3 /var/www/html/components/com_virtuemart/helpers/shopfunctionsf.php(569): include(&#039;/var/www/html/c...&#039;)
+&lt;/pre&gt;

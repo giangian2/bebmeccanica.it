@@ -131,11 +131,12 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
     <jdoc:include type="styles" />
     <jdoc:include type="scripts" />
     <style>
+    
       header img{
         width:30% !important;
       }
 
-      header div:nth-child(2){
+      .navbar-brand{
         display:none !important;
       }
 
@@ -184,6 +185,22 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
         border-radius: 15px !important;
         margin-top:15px;
       }
+
+      @media only screen and (max-width: 600px) {
+        .maximenumobiletogglericonck{
+            background: rgb(51,51,51) !important;
+            color:white !important;
+        }
+
+        header img{
+            width:100% !important;
+        }
+
+        #mod_virtuemart_search{
+            display:none !important;
+        }
+      }
+      
     </style>
 </head>
 
@@ -312,7 +329,13 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
             if(window.location.href==="http://localhost:8080/index.php" || window.location.href==="http://localhost:8080/index.php/home" || window.location.href==="http://localhost:8080/"  || window.location.href==="http://localhost:8080"){
                 document.querySelector(".container-component").style.display="none";
             }
+
+            document.querySelector(".floatck").style.display="block";
+            document.querySelector(".floatck").style.overflow="visible";
+
        });
+
+
       
     </script>
 </body>
