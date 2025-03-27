@@ -16,15 +16,6 @@ services:
       - "8080:80"
     networks:
       - joomla-net
-    deploy:
-      resources:
-        limits:
-          cpus: '1.5'
-          memory: 2000M
-        reservations:
-          cpus: '1'
-          memory: 2000M
-    cpuset: "1"
   
   db:
     image: mysql:8.0.13
@@ -39,15 +30,6 @@ services:
       - bebmeccanica-mysql:/var/lib/mysql
     networks:
       - joomla-net
-    deploy:
-      resources:
-        limits:
-          cpus: '1.5'
-          memory: 2000M
-        reservations:
-          cpus: '1'
-          memory: 2000M
-    cpuset: "1"
 
 
   phpmyadmin:

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" client="site"  version="3.9" method="upgrade">
+    <name>JP VM Ajax Search</name>
+    <creationDate>Nov 2020</creationDate>
+    <author>The joomlaproffs Development Team</author>
+    <authorUrl>http://www.joomlaproffs.se</authorUrl>
+    <copyright>Copyright (C) 2004-2020 JoomlaPro Team. All rights reserved.</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <version>1.0.2</version>
+    <description></description>
+    <files>
+	<filename module="mod_jp_vm_ajax_search">mod_jp_vm_ajax_search.php</filename>
+	<filename>mod_jp_vm_ajax_search.xml</filename>
+	<filename>helper.php</filename>
+	<folder>tmpl</folder>
+	<folder>images</folder>
+	<folder>assets</folder>
+    </files> 
+	<languages folder="languages">
+			<language tag="en-GB">en-GB.mod_jp_vm_ajax_search.ini</language>
+			<language tag="sv-SE">sv-SE.mod_jp_vm_ajax_search.ini</language>
+    </languages>
+	<updateservers>
+  	      <server type="extension" name="JP VM Ajax Search">
+		  	<![CDATA[http://joomlapro.com/index.php?option=com_rdsubs&view=updater&cat=41&type=2&format=xml ]]>
+		  </server>
+      	</updateservers>
+    <config>
+		<fields name="params" addfieldpath="/modules/mod_jp_vm_ajax_search/fields">
+			<fieldset name="basic">
+				<field type="headtext" name="headtext" />
+				<field class="downloadkey" 	name="download_key" type="text" label="Download ID"  description="Download Id" default="" />
+				<field
+					name="product_count"
+					type="text"
+					label="Product Results Count"
+					description="No of Product Results want to display"
+					default="6"
+				/>
+				<field
+					name="cat_count"
+					type="text"
+					label="Category Results Count"
+					description="No of Category Results want to display"
+					default="3"
+				/>
+				<field
+					name="man_count"
+					type="text"
+					label="Manufacturer Results Count"
+					description="No of Manufacturer Results want to display"
+					default="3"
+				/>
+				
+				<field 	name="enter_action"	type="radio" class="btn-group btn-group-yesno"	label="Do nothing on Enter"	description="" default="1">
+					<option value="1">JYES</option>
+			    	<option value="0">JNO</option>
+			    </field>	 
+				
+				<field 	name="alignment" type="list"  label="Search Alignment"	description="" default="left">
+					<option value="jp_search_left">Left</option>
+					<option value="jp_search_right">Right</option>
+					<option value="jp_search_center">Center</option>
+			    </field>	 
+				
+				<field 	name="inputheight" type="text"  label="Input Height"	description="" default="50" />
+
+
+		   </fieldset>
+		</fields>
+    </config>
+</extension>
+

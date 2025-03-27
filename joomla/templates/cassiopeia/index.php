@@ -174,17 +174,16 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
         float:right !important;
       }
 
-      header form{
-        margin-left:20px !important;
-      }
+  
 
-
-      #mod_virtuemart_search{
+      .jp_vmajaxsearch_div{
         height:40px !important;
         border:2px solid black !important;
         border-radius: 15px !important;
-        margin-top:15px;
+        margin-top:10px !important;
+        margin-left:20px !important;
       }
+
 
       @media only screen and (max-width: 600px) {
         .maximenumobiletogglericonck{
@@ -196,7 +195,7 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
             width:100% !important;
         }
 
-        #mod_virtuemart_search{
+        .jp_vmajaxsearch_div{
             display:none !important;
         }
       }
@@ -330,8 +329,11 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
                 document.querySelector(".container-component").style.display="none";
             }
 
-            document.querySelector(".floatck").style.display="block";
-            document.querySelector(".floatck").style.overflow="visible";
+
+            let search_bar=document.querySelector(".jp_vmajaxsearch_div");
+            if(search_bar!==null){
+                document.querySelector(".jp_vmajaxsearch_div").setAttribute("maxlength",50);
+            }
 
        });
 
