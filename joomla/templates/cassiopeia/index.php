@@ -184,11 +184,17 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
         margin-left:20px !important;
       }
 
+      .bottom-b .vmheader{
+        font-size: 32px;
+        font-weight: bold;
+        color:rgb(51,51,51);
+      }
 
       @media only screen and (max-width: 600px) {
         .maximenumobiletogglericonck{
             background: rgb(51,51,51) !important;
             color:white !important;
+            
         }
 
         header img{
@@ -327,6 +333,8 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
        document.addEventListener("DOMContentLoaded",function(){
             if(window.location.href==="http://api.bebmeccanica.it:8888/index.php" || window.location.href==="http://api.bebmeccanica.it:8888/index.php/home" || window.location.href==="http://api.bebmeccanica.it:8888/"  || window.location.href==="http://api.bebmeccanica.it:8888"){
                 document.querySelector(".container-component").style.display="none";
+                let nuoviArrivi=document.querySelector(".bottom-b .cart");
+                nuoviArrivi.innerHTML+="<a href='http://api.bebmeccanica.it:8888/index.php'>Vai al negozio</a>";
             }
 
 
