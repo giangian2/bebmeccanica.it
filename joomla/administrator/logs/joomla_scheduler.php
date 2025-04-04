@@ -24,3 +24,8 @@
 2025-03-27	12:07:44	INFO	Successfully finished task#02 in 0.01 (net 0.07) seconds.
 2025-03-27	12:12:43	INFO	Running task#03 'Update Notification'.
 2025-03-27	12:12:47	INFO	Successfully finished task#03 in 4.52 (net 4.53) seconds.
+2025-04-03	12:28:12	INFO	Running task#02 'Session GC'.
+2025-04-03	12:28:12	INFO	Task> SessionGC end
+2025-04-03	12:28:13	INFO	Successfully finished task#02 in 0.01 (net 0.05) seconds.
+2025-04-03	12:33:11	INFO	Running task#03 'Update Notification'.
+2025-04-03	12:33:16	INFO	Successfully finished task#03 in 5.61 (net 5.63) seconds.
