@@ -190,6 +190,10 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
         color:rgb(51,51,51);
       }
 
+      #dropdownsearch_130 a{
+        color:rgb(51,51,51) !important;
+      }
+
       @media only screen and (max-width: 600px) {
         .maximenumobiletogglericonck{
             background: rgb(51,51,51) !important;
