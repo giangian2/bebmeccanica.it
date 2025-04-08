@@ -337,7 +337,7 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
        document.addEventListener("DOMContentLoaded",function(){
             if(window.location.href==="http://api.bebmeccanica.it:8888/index.php" || window.location.href==="http://api.bebmeccanica.it:8888/index.php/home" || window.location.href==="http://api.bebmeccanica.it:8888/"  || window.location.href==="http://api.bebmeccanica.it:8888"){
                 document.querySelector(".container-component").style.display="none";
-                let nuoviArrivi=document.querySelector(".bottom-b .cart");
+                let nuoviArrivi=document.querySelector(".bottom-b");
                 nuoviArrivi.innerHTML+="<a href='http://api.bebmeccanica.it:8888/index.php'>Vai al negozio</a>";
             }
 
