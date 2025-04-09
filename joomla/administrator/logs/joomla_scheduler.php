@@ -29,3 +29,17 @@
 2025-04-03	12:28:13	INFO	Successfully finished task#02 in 0.01 (net 0.05) seconds.
 2025-04-03	12:33:11	INFO	Running task#03 'Update Notification'.
 2025-04-03	12:33:16	INFO	Successfully finished task#03 in 5.61 (net 5.63) seconds.
+2025-04-09	08:24:53	INFO	Esecuzione attività#02 'Session GC'.
+2025-04-09	08:24:53	INFO	Attività> SessionGC end
+2025-04-09	08:24:53	INFO	Attività terminata con successo#02 in 0.00 (rete 0.00) secondi.
+2025-04-09	08:24:57	INFO	Esecuzione attività#03 'Update Notification'.
+2025-04-09	08:24:58	INFO	Attività> Could not instantiate mail function.
+2025-04-09	08:24:58	INFO	Attività> Could not instantiate mail function.
+2025-04-09	08:24:58	INFO	Attività> Could not instantiate mail function.
+2025-04-09	08:24:58	INFO	Attività> Could not instantiate mail function.
+2025-04-09	08:24:58	INFO	Attività> Could not instantiate mail function.
+2025-04-09	08:24:58	INFO	Attività> Could not instantiate mail function.
+2025-04-09	08:24:58	INFO	Attività> Could not instantiate mail function.
+2025-04-09	08:24:58	INFO	Attività> Could not instantiate mail function.
+2025-04-09	08:24:58	INFO	Attività> UpdateNotification end
+2025-04-09	08:24:58	INFO	Attività terminata con successo#03 in 0.60 (rete 0.60) secondi.

@@ -194,6 +194,14 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
         color:rgb(51,51,51) !important;
       }
 
+      .contact-name{
+        display: none !important;
+      }
+
+      .com-contact{
+        margin-left:1%;
+      }
+
       @media only screen and (max-width: 600px) {
         .maximenumobiletogglericonck{
             background: rgb(51,51,51) !important;
@@ -345,7 +353,7 @@ $wa->getAsset('style', 'fontawesome')->setAttribute('rel', 'lazy-stylesheet');
             let search_bar=document.querySelector(".jp_vmajaxsearch_div");
             if(search_bar!==null){
                 document.querySelector(".jp_vmajaxsearch_div").setAttribute("maxlength",50);
-            }
+	    }
 
        });
 

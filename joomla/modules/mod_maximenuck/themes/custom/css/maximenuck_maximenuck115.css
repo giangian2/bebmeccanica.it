@@ -745,19 +745,8 @@ div#maximenuck115 ul.maximenuck li.maximenucktab > div.floatck div.floatck {
 	width: calc(100% - 180px);
 	margin: 0;
 	overflow: auto;
-}div#maximenuck115.maximenufixed {
-	position: fixed !important;
-	left: 0 !important;
-	top: 0 !important;
-	right: 0 !important;
-	z-index: 1000 !important;
-	margin: 0 auto;
-	width: 100%;
-	
-}div#maximenuck115.maximenufixed ul.maximenuck {
-            top: 0 !important;
-        }@media screen and (max-width: 640px) {#maximenuck115 .maximenumobiletogglericonck {display: block !important;font-size: 33px !important;text-align: right !important;padding-top: 10px !important;}#maximenuck115 .maximenumobiletogglerck + ul.maximenuck {display: none !important;}#maximenuck115 .maximenumobiletogglerck:checked + ul.maximenuck {display: block !important;}div#maximenuck115 .maximenuck-toggler-anchor {display: block;}}
-@media screen and (max-width: 640px) {div#maximenuck115 ul.maximenuck li.maximenuck.nomobileck, div#maximenuck115 .maxipushdownck ul.maximenuck2 li.maximenuck.nomobileck { display: none !important; }
+}@media screen and (max-width: 980px) {#maximenuck115 .maximenumobiletogglericonck {display: block !important;font-size: 33px !important;text-align: right !important;padding-top: 10px !important;}#maximenuck115 .maximenumobiletogglerck + ul.maximenuck {display: none !important;}#maximenuck115 .maximenumobiletogglerck:checked + ul.maximenuck {display: block !important;}div#maximenuck115 .maximenuck-toggler-anchor {display: block;}}
+@media screen and (max-width: 980px) {div#maximenuck115 ul.maximenuck li.maximenuck.nomobileck, div#maximenuck115 .maxipushdownck ul.maximenuck2 li.maximenuck.nomobileck { display: none !important; }
 	div#maximenuck115.maximenuckh {
         height: auto !important;
     }
@@ -879,7 +868,7 @@ div#maximenuck115 ul.maximenuck li.maximenucktab > div.floatck div.floatck {
     }
 }
 	
-@media screen and (min-width: 641px) {
+@media screen and (min-width: 981px) {
 	div#maximenuck115 ul.maximenuck li.maximenuck.nodesktopck, div#maximenuck115 .maxipushdownck ul.maximenuck2 li.maximenuck.nodesktopck { display: none !important; }
 }/*---------------------------------------------
 ---	 WCAG				                ---
