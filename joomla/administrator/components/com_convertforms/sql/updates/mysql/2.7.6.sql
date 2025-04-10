@@ -1,1 +1,0 @@
-ALTER TABLE `#__convertforms_conversions` ADD INDEX `state` (`state`);
