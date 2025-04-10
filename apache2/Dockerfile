@@ -2,7 +2,7 @@ FROM php:8.3-apache
 
 #enable apache2 mods
 RUN a2enmod rewrite
-#RUN a2enmod ssl
+RUN a2enmod ssl
 RUN a2enmod headers
 
 #create directories for logging and certificates
@@ -35,12 +35,12 @@ RUN apt update \
 
 #Copy apache conf files
 COPY ./bebmeccanica.it.httpd.conf /etc/apache2/sites-available/000-default.conf
-#COPY ./bebmeccanica.it.httpd.ssl.conf /etc/apache2/sites-available/000-default-ssl.conf
+COPY ./bebmeccanica.it.httpd.ssl.conf /etc/apache2/sites-available/000-default-ssl.conf
 
 #enable default ssl vhost
-#RUN a2ensite 000-default-ssl
+RUN a2ensite 000-default-ssl
 
 COPY ./php/uploads.ini /usr/local/etc/php/conf.d/uploads.ini
 
 EXPOSE 80
-#EXPOSE 443
+EXPOSE 443
