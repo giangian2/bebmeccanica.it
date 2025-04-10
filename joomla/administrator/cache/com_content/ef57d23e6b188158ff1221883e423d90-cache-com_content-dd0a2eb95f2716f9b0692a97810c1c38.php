@@ -33,8 +33,8 @@
         
                     <dd class="hits">
     <span class="icon-eye icon-fw" aria-hidden="true"></span>
-    <meta content="UserPageVisits:40">
-    Visite: 40</dd>
+    <meta content="UserPageVisits:43">
+    Visite: 43</dd>
             </dl>
     
     
