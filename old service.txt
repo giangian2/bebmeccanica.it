@@ -1,0 +1,63 @@
+version: '3'
+services:
+  joomla:
+    restart: always
+    hostname: localhost
+    image: apache2
+    build:
+      context: ./apache2
+      dockerfile: ./Dockerfile
+    container_name: ${JOOMLA_CONTAINER_NAME}
+    depends_on:
+      - db
+    volumes:
+      - ./joomla:/var/www/html
+    ports:
+      - "8080:80"
+    networks:
+      - joomla-net
+    deploy:
+      resources:
+        limits:
+          cpus: '1.5'
+          memory: 2000M
+        reservations:
+          cpus: '1'
+          memory: 2000M
+    cpuset: "1"
+  
+  db:
+    image: mysql:8.0.13
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DB_NAME}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+    volumes:
+      - bebmeccanica-mysql:/var/lib/mysql
+    networks:
+      - joomla-net
+
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    restart: always
+    links:
+      - db
+    environment:
+      PMA_HOST: db
+    ports:
+      - "8000:80"
+    networks:
+      - joomla-net
+
+networks:
+  joomla-net:
+    driver: bridge
+
+volumes:
+  bebmeccanica-mysql:
+
+
+  

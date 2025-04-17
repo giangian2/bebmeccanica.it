@@ -1,0 +1,48 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"result";N;s:6:"output";s:9639:"<div class="vmgroup">
+
+		<div class="vmheader">Nuovi Arrivi</div>
+			<div class="vmproduct productdetails">
+						<div class="product-container  width25 floatleft">
+				<div class="spacer">
+					<a href="/index.php/shop/ricambi-scooter/ricambi-elettrici-scooter-90/regolatore-di-tensione-malaguti-password-250-yamaha-vp-xvs-ypr-yfz-125-sh650d-11-su2539-detail" title="REGOLATORE DI TENSIONE MALAGUTI PASSWORD 250 YAMAHA VP XVS YPR YFZ 125 SH650D-11 (SU2539)"><img  class="featuredProductImage"  loading="lazy"  src="/components/com_virtuemart/assets/images/vmgeneral/warning.png"  alt="COM_VIRTUEMART_NO_IMAGE_FOUND beb-102266 image"  /></a><div class="clear"></div>					<a href="/index.php/shop/ricambi-scooter/ricambi-elettrici-scooter-90/regolatore-di-tensione-malaguti-password-250-yamaha-vp-xvs-ypr-yfz-125-sh650d-11-su2539-detail">REGOLATORE DI TENSIONE MALAGUTI PASSWORD 250 YAMAHA VP XVS YPR YFZ 125 SH650D-11 (SU2539)</a>        <div class="clear"></div><div class="productdetails"><div class="product-price"><div class="PricesalesPrice vm-display vm-price-value"><span class="PricesalesPrice">25,00 €</span></div></div></div>				</div>
+			</div>
+						<div class="product-container  width25 floatleft">
+				<div class="spacer">
+					<a href="/index.php/shop/ricambi-moto/ricambi-motore-moto/ingranaggio-messa-in-moto-demm-49-2t-sc3336mg-detail" title="INGRANAGGIO MESSA IN MOTO DEMM 49 2T (SC3336MG)"><img  class="featuredProductImage"  loading="lazy"  src="/components/com_virtuemart/assets/images/vmgeneral/warning.png"  alt="COM_VIRTUEMART_NO_IMAGE_FOUND beb-102267 image"  /></a><div class="clear"></div>					<a href="/index.php/shop/ricambi-moto/ricambi-motore-moto/ingranaggio-messa-in-moto-demm-49-2t-sc3336mg-detail">INGRANAGGIO MESSA IN MOTO DEMM 49 2T (SC3336MG)</a>        <div class="clear"></div><div class="productdetails"><div class="product-price"><div class="PricesalesPrice vm-display vm-price-value"><span class="PricesalesPrice">30,00 €</span></div></div></div>				</div>
+			</div>
+						<div class="product-container  width25 floatleft">
+				<div class="spacer">
+					<a href="/index.php/shop/ricambi-moto/ricambi-motore-moto/ingranaggio-z20-trasmissione-demm-49-2t-sc3337mg-detail" title="INGRANAGGIO Z20 TRASMISSIONE DEMM 49 2T (SC3337MG)"><img  class="featuredProductImage"  loading="lazy"  src="/components/com_virtuemart/assets/images/vmgeneral/warning.png"  alt="COM_VIRTUEMART_NO_IMAGE_FOUND beb-102268 image"  /></a><div class="clear"></div>					<a href="/index.php/shop/ricambi-moto/ricambi-motore-moto/ingranaggio-z20-trasmissione-demm-49-2t-sc3337mg-detail">INGRANAGGIO Z20 TRASMISSIONE DEMM 49 2T (SC3337MG)</a>        <div class="clear"></div><div class="productdetails"><div class="product-price"><div class="PricesalesPrice vm-display vm-price-value"><span class="PricesalesPrice">24,00 €</span></div></div></div>				</div>
+			</div>
+						<div class="product-container  width25 floatleft">
+				<div class="spacer">
+					<a href="/index.php/shop/ricambi-moto/ricambi-motore-moto/cambi-e-selettori-moto/cruscore-cambio-2-marcia-demm-49-2t-sc3338mg-detail" title="CRUSCORE CAMBIO 2 MARCIA DEMM 49 2T (SC3338MG)"><img  class="featuredProductImage"  loading="lazy"  src="/components/com_virtuemart/assets/images/vmgeneral/warning.png"  alt="COM_VIRTUEMART_NO_IMAGE_FOUND beb-102269 image"  /></a><div class="clear"></div>					<a href="/index.php/shop/ricambi-moto/ricambi-motore-moto/cambi-e-selettori-moto/cruscore-cambio-2-marcia-demm-49-2t-sc3338mg-detail">CRUSCORE CAMBIO 2 MARCIA DEMM 49 2T (SC3338MG)</a>        <div class="clear"></div><div class="productdetails"><div class="product-price"><div class="PricesalesPrice vm-display vm-price-value"><span class="PricesalesPrice">25,00 €</span></div></div></div>				</div>
+			</div>
+				</div><div style='clear:both;'>			<div class="product-container  width25 floatleft">
+				<div class="spacer">
+					<a href="/index.php/shop/ricambi-moto/ricambi-elettrici-moto/centraline-e-raddrizzatori-moto/regolatore-di-tensione-honda-four-350-400-500-550-750-s4t-05-su2540-detail" title="REGOLATORE DI TENSIONE HONDA FOUR 350 400 500 550 750 S4T-05 (SU2540)"><img  class="featuredProductImage"  loading="lazy"  src="/components/com_virtuemart/assets/images/vmgeneral/warning.png"  alt="COM_VIRTUEMART_NO_IMAGE_FOUND beb-102270 image"  /></a><div class="clear"></div>					<a href="/index.php/shop/ricambi-moto/ricambi-elettrici-moto/centraline-e-raddrizzatori-moto/regolatore-di-tensione-honda-four-350-400-500-550-750-s4t-05-su2540-detail">REGOLATORE DI TENSIONE HONDA FOUR 350 400 500 550 750 S4T-05 (SU2540)</a>        <div class="clear"></div><div class="productdetails"><div class="product-price"><div class="PricesalesPrice vm-display vm-price-value"><span class="PricesalesPrice">50,00 €</span></div></div></div>				</div>
+			</div>
+						<div class="product-container  width25 floatleft">
+				<div class="spacer">
+					<a href="/index.php/shop/ricambi-moto/ricambi-motore-moto/ingranaggio-messa-in-moto-demm-49-2t-sc3339mg-detail" title="INGRANAGGIO MESSA IN MOTO DEMM 49 2T (SC3339MG)"><img  class="featuredProductImage"  loading="lazy"  src="/components/com_virtuemart/assets/images/vmgeneral/warning.png"  alt="COM_VIRTUEMART_NO_IMAGE_FOUND beb-102271 image"  /></a><div class="clear"></div>					<a href="/index.php/shop/ricambi-moto/ricambi-motore-moto/ingranaggio-messa-in-moto-demm-49-2t-sc3339mg-detail">INGRANAGGIO MESSA IN MOTO DEMM 49 2T (SC3339MG)</a>        <div class="clear"></div><div class="productdetails"><div class="product-price"><div class="PricesalesPrice vm-display vm-price-value"><span class="PricesalesPrice">34,00 €</span></div></div></div>				</div>
+			</div>
+						<div class="product-container  width25 floatleft">
+				<div class="spacer">
+					<a href="/index.php/shop/ricambi-moto/ricambi-motore-moto/cambi-e-selettori-moto/cruscore-cambio-3-marce-demm-49-ultima-tipo-sc3340mg-detail" title="CRUSCORE CAMBIO 3 MARCE DEMM 49 ULTIMA TIPO (SC3340MG)"><img  class="featuredProductImage"  loading="lazy"  src="/components/com_virtuemart/assets/images/vmgeneral/warning.png"  alt="COM_VIRTUEMART_NO_IMAGE_FOUND beb-102272 image"  /></a><div class="clear"></div>					<a href="/index.php/shop/ricambi-moto/ricambi-motore-moto/cambi-e-selettori-moto/cruscore-cambio-3-marce-demm-49-ultima-tipo-sc3340mg-detail">CRUSCORE CAMBIO 3 MARCE DEMM 49 ULTIMA TIPO (SC3340MG)</a>        <div class="clear"></div><div class="productdetails"><div class="product-price"><div class="PricesalesPrice vm-display vm-price-value"><span class="PricesalesPrice">25,00 €</span></div></div></div>				</div>
+			</div>
+						<div class="product-container  width25 floatleft">
+				<div class="spacer">
+					<a href="/index.php/shop/ricambi-scooter/ricambi-elettrici-scooter-90/regolatore-di-tensione-suzuki-burgman-400-250-172312-vedi-descrizione-su2541-detail" title="REGOLATORE DI TENSIONE SUZUKI BURGMAN 400 250 172312 VEDI DESCRIZIONE (SU2541)"><img  class="featuredProductImage"  loading="lazy"  src="/components/com_virtuemart/assets/images/vmgeneral/warning.png"  alt="COM_VIRTUEMART_NO_IMAGE_FOUND beb-102273 image"  /></a><div class="clear"></div>					<a href="/index.php/shop/ricambi-scooter/ricambi-elettrici-scooter-90/regolatore-di-tensione-suzuki-burgman-400-250-172312-vedi-descrizione-su2541-detail">REGOLATORE DI TENSIONE SUZUKI BURGMAN 400 250 172312 VEDI DESCRIZIONE (SU2541)</a>        <div class="clear"></div><div class="productdetails"><div class="product-price"><div class="PricesalesPrice vm-display vm-price-value"><span class="PricesalesPrice">50,00 €</span></div></div></div>				</div>
+			</div>
+				</div><div style='clear:both;'>			<div class="product-container  width25 floatleft">
+				<div class="spacer">
+					<a href="/index.php/shop/ricambi-moto/ricambi-motore-moto/alberi-messa-in-moto-moto/albero-messa-in-moto-a-pedali-demm-49-ultima-tipo-sc3341mg-detail" title="ALBERO MESSA IN MOTO  A PEDALI DEMM 49 ULTIMA TIPO (SC3341MG)"><img  class="featuredProductImage"  loading="lazy"  src="/components/com_virtuemart/assets/images/vmgeneral/warning.png"  alt="COM_VIRTUEMART_NO_IMAGE_FOUND beb-102274 image"  /></a><div class="clear"></div>					<a href="/index.php/shop/ricambi-moto/ricambi-motore-moto/alberi-messa-in-moto-moto/albero-messa-in-moto-a-pedali-demm-49-ultima-tipo-sc3341mg-detail">ALBERO MESSA IN MOTO  A PEDALI DEMM 49 ULTIMA TIPO (SC3341MG)</a>        <div class="clear"></div><div class="productdetails"><div class="product-price"><div class="PricesalesPrice vm-display vm-price-value"><span class="PricesalesPrice">29,00 €</span></div></div></div>				</div>
+			</div>
+						<div class="product-container  width25 floatleft">
+				<div class="spacer">
+					<a href="/index.php/shop/ricambi-moto/ricambi-elettrici-moto/centraline-e-raddrizzatori-moto/regolatore-di-tensione-honda-ns-125-f-sh522b-12-su2542-detail" title="REGOLATORE DI TENSIONE HONDA NS 125 F SH522B-12 (SU2542)"><img  class="featuredProductImage"  loading="lazy"  src="/components/com_virtuemart/assets/images/vmgeneral/warning.png"  alt="COM_VIRTUEMART_NO_IMAGE_FOUND beb-102275 image"  /></a><div class="clear"></div>					<a href="/index.php/shop/ricambi-moto/ricambi-elettrici-moto/centraline-e-raddrizzatori-moto/regolatore-di-tensione-honda-ns-125-f-sh522b-12-su2542-detail">REGOLATORE DI TENSIONE HONDA NS 125 F SH522B-12 (SU2542)</a>        <div class="clear"></div><div class="productdetails"><div class="product-price"><div class="PricesalesPrice vm-display vm-price-value"><span class="PricesalesPrice">35,00 €</span></div></div></div>				</div>
+			</div>
+					</div>
+		<br style='clear:both;'/>
+
+		</div>";}

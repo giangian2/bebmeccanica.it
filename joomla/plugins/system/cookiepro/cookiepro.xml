@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="plugin" group="system">
+	<name>PLG_SYSTEM_COOKIEPRO</name>
+	<license>GPL2</license>
+	<author>OneTrust, Llc</author>
+	<creationDate>Oct 2019</creationDate>
+	<version>2.0.2</version>
+	<description>CookiePro allows to place an automatically generated cookie banner &amp; preference center script into the document head.</description>
+	<files>
+		<filename plugin="cookiepro">cookiepro.php</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">en-GB.plg_system_cookiepro.ini</language>
+		<language tag="en-GB">en-GB.plg_system_cookiepro.sys.ini</language>
+	</languages>
+	<config>
+        <fields name="params">
+	        <fieldset name="description">
+	            	<field name="cookiepro_desc" type="note" description="PLG_SYSTEM_COOKIEPRO_XML_DESC" />
+			</fieldset>
+            <fieldset name="basic">
+				<field name="cookiepro_header" type="textarea" label="PLG_SYSTEM_COOKIEPRO_SCRIPT_LABEL" description="" rows="10" cols="5" class="required" filter="raw"/>
+			</fieldset>
+        </fields>
+    </config>
+    <updateservers>
+    	<server type="extension" priority="2" name="Cookiepro's Updates">https://cookie-cdn.cookiepro.com/cookiepro-joomla-plugin/update.xml</server>
+ 	</updateservers>
+</extension>

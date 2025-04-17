@@ -1,0 +1,630 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_id>home</menu_item_id>
+      <menu_item_articlename>Home</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>home</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Us</menu_item_title>
+      <menu_item_path>about us</menu_item_path>
+      <menu_item_id>about-us</menu_item_id>
+      <menu_item_articlename>About Us</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>about-us</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Service</menu_item_title>
+      <menu_item_path>service</menu_item_path>
+      <menu_item_id>service</menu_item_id>
+      <menu_item_articlename>Service</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>service</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact</menu_item_title>
+      <menu_item_path>contact</menu_item_path>
+      <menu_item_id>Contact</menu_item_id>
+      <menu_item_articlename>Contact</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>contact</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_id>Blog</menu_item_id>
+      <menu_item_articlename>Blog</menu_item_articlename>
+      <menu_item_articletype>category</menu_item_articletype>
+      <menu_item_slug>blog</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+  </menu>
+  <pages>
+    <content>
+      <meta_ID>tt_page1</meta_ID>
+      <page_title>Home</page_title>
+      <alias>home</alias>
+      <page_name>Home</page_name>
+      <page_header_id>home</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>08/13/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_home_html_row0 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:3.11em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:65px;max-width:48px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/Screenshot20210809at121103Home2CarDealer.png" alt="fg" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.143em;">New Vehicles</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.69em;color:rgba(51,51,51,1);"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">Lorem ipsum dolor sit amet</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:1.69em;color:rgba(51,51,51,1);"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">consectetur adipisicing</span></p><p style="margin:10px 0px 5px 0px;text-align:Center; display:block; "><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Read More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:3.11em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:65px;max-width:48px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/Screenshot20210809at121057Home2CarDealer.png" alt="gf" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.143em;">Vehicles Parts</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.69em;color:rgba(51,51,51,1);"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">Lorem ipsum dolor sit amet</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:1.69em;color:rgba(51,51,51,1);"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">consectetur adipisicing</span></p><p style="margin:10px 0px 5px 0px;text-align:Center; display:block; "><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Read More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column02">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:3.11em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:65px;max-width:48px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/Screenshot20210809at121052Home2CarDealer.png" alt="cx" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.143em;">Vehicles Service</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.69em;color:rgba(51,51,51,1);"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">Lorem ipsum dolor sit amet</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:1.69em;color:rgba(51,51,51,1);"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">consectetur adipisicing</span></p><p style="text-align:Center; display:block; "><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Read More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.64em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:3.214em;">WELCOME TO THE CAR DEALER </span></p><p style="text-align:Center; display:block; line-height:4.64em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:3.214em;">COMPANY</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:2.1em;"><span style="font-family:'Montserrat','Open Sans','Arial';font-weight:300;font-size:1.429em;">As for Passepartout, he thought Mr. Fogg’s manoeuvre simply glorious. The captain had said “between eleven and twelve knots,” and the Henrietta confirmed his prediction. How the adventure ended will be seen anon. Aouda was anxious, though she said nothing</span></p><p style="margin:20px 0px 5px 0px;line-height:2.1em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">READ MORE</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row2 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; "><span style="font-family:'Poppins','Arial';font-size:1.571em;color:rgba(255,255,255,1);">Vehicles Stock</span></p><p style="text-align:Center; display:block; "><span style="font-family:'Poppins','Arial';font-weight:700;font-size:5.143em;color:rgba(242,200,33,1);">400</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.3em;"><span style="font-family:'Poppins','Arial';font-size:1.571em;color:rgba(255,255,255,1);">Happy Customer</span></p><p style="text-align:Center; display:block; line-height:7.37em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:5.143em;color:rgba(242,200,33,1);">1500</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.51em;"><span style="font-family:'Poppins','Arial';font-size:1.714em;color:rgba(255,255,255,1);">Dealer Reviews</span></p><p style="text-align:Center; display:block; line-height:7.37em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:5.143em;color:rgba(242,200,33,1);">1000</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column23">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.51em;"><span style="font-family:'Poppins','Arial';font-size:1.714em;color:rgba(255,255,255,1);">Awards</span></p><p style="text-align:Center; display:block; line-height:7.37em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:5.143em;color:rgba(242,200,33,1);">450</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row3 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.64em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:3.214em;color:rgba(0,0,0,1);">OUR BEST CAR</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column31">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.9em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:853px;max-width:1280px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/luxuryblacksportcoupeparkingsnowyroadforest.jpg" alt="xzzx" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.286em;">2013 JAGUAR X5</span></p><p style="text-align:Center; display:block; line-height:1.9em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.286em;color:rgba(149,0,0,1);">$25,900.00</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column32">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.9em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:853px;max-width:1280px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/redluxurysedanroad.jpg" alt="xc" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.286em;">2011 HONDA ACCORD</span></p><p style="text-align:Center; display:block; line-height:1.9em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.286em;color:rgba(149,0,0,1);">$36,555.00</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column33">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.9em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:853px;max-width:1280px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/yellowsportcarwithblackautotuningroad.jpg" alt="xz" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.286em;">2015 Porsche Cayenne</span></p><p style="text-align:Center; display:block; line-height:1.9em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.286em;color:rgba(149,0,0,1);">$206,300.00</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row4 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column40">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:3.72em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.571em;">World Largest Automotive Marketplace.</span></p><p style="margin:20px 0px 5px 0px;line-height:1.57em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.286em;color:rgba(149,0,0,1);">Best Pricing</span></p><p style="line-height:1.57em;"><span style="font-family:'Montserrat','Arial';font-weight:300;">Lorem ipsum dolor sit amet</span></p><p style="line-height:1.57em;"><span style="font-family:'Montserrat','Arial';font-weight:300;">consectetur adipisicing</span></p><p style="margin:20px 0px 5px 0px;line-height:1.57em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.286em;color:rgba(242,200,33,1);">Fam</span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.286em;color:rgba(149,0,0,1);">ous Brands</span></p><p style="line-height:1.57em;"><span style="font-family:'Montserrat','Arial';font-weight:300;">Lorem ipsum dolor sit amet</span></p><p style="line-height:1.57em;"><span style="font-family:'Montserrat','Arial';font-weight:300;">consectetur adipisicing</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column41">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:534px;max-width:800px;margin:0px 0px 0px 0px;" src="<?php echo $template_path; ?>/images/evgenytchebotarevaiwuLjLPFnUunsplash.jpg" alt="gf" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row5 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column50">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.64em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:3.214em;">LATEST COLLECTION</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column51">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:533px;max-width:800px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/stefanrodriguez2AovfzYV3rcunsplash.jpg" alt="gfd" /></span></span><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.429em;">CHEVROLET CAMARO</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column52">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:533px;max-width:800px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/joeybanksYApiWyp0lqounsplash.jpg" alt="fed" /></span></span><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.429em;">FORD MUSTANG</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column53">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:533px;max-width:800px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/lanceasperN9Pf2J656aQunsplash.jpg" alt="gf" /></span></span><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.429em;">FORD MUSTANG SHELBY</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column54">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:533px;max-width:800px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/robinvetq6LFMQ6wVZ0unsplash.jpg" alt="fgd" /></span></span><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.429em;">ASTON MARTIN</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column55">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:533px;max-width:800px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/lizfitchw3JCvme6sSounsplash.jpg" alt="efd" /></span></span><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.429em;">FIAT PADMINI</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column56">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.1em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:533px;max-width:800px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/chelseaferntck12YHwl2Qunsplash.jpg" alt="fd" /></span></span><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.429em;">LAMBORGHINI HURACAN</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row6 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column60">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.72em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.571em;color:rgba(255,255,255,1);">What Our Happy Clients say about us</span></p><p style="text-align:Center; display:block; line-height:3.72em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.571em;color:rgba(255,255,255,1);">Our Testimonial</span></p><p style="text-align:Center; display:block; line-height:1.69em;"><span style="font-family:'Montserrat','Arial';font-size:1.143em;color:rgba(255,255,255,1);"> There are basically six key areas to higher achievement. Some people will tell you there are four while others may tell you there are eight. One thing</span></p><p style="text-align:Center; display:block; line-height:1.69em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:150px;max-width:143.540669856459px;margin:20px 0px 0px 0px;" src="<?php echo $template_path; ?>/images/ayoogunseinde6W4F62sN_yIunsplash2.png" alt="mh" /></span></span><span style="font-family:'Montserrat','Arial';font-size:1.143em;color:rgba(255,255,255,1);">Michael bean</span></p><p style="text-align:Center; display:block; line-height:2.71em;"><br style="font-family:'Poppins','Arial';font-size:1.857em;color:rgba(255,255,255,1);" /></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page2</meta_ID>
+      <page_title>Contact</page_title>
+      <alias>contact</alias>
+      <page_name>Contact</page_name>
+      <page_header_id>contact</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>08/13/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_contact_html_row0 row" >
+<div class="post_column col-xl-5 col-lg-5 col-md-5 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /><p style="margin:2px 0px 0px 8px;line-height:2.61em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.786em;">Address:</span></p><br style="margin:2px 0px 0px 8px;" /><p style="margin:2px 0px 0px 8px;line-height:1.69em;"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">123 ABC Ave Street View #456 XYZ</span></p><p style="margin:2px 0px 0px 8px;line-height:1.69em;"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">New York City,</span></p><p style="margin:2px 0px 0px 8px;line-height:1.69em;"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">NY 10005, USA</span></p><p style="margin:2px 0px 0px 8px;line-height:1.69em;"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">PHONES: (800) 123-4567-890</span></p><p style="margin:2px 0px 0px 8px;line-height:1.69em;"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">WE ARE OPEN: Mon-Fri: 10:00 AM - 8:00 PM</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-7 col-lg-7 col-md-5 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br style="text-align:Center; display:block; " /><p style="line-height:2.61em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.786em;">Let's Get in Touch </span></p><p><div style="width:100%;" xmlns="contactformparentdiv"><div class="contactformdiv" style="margin:0px 0px 0px 0px;">{loadmoduleid 8bbae294-92b7-45b6-a2ae-f27fda541cc1}</div></div></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+      <contactforms><contactform id="8bbae294-92b7-45b6-a2ae-f27fda541cc1" filesize="0" BrowseButtonVisibility="Visible" msg_name="Message"><ListViewItem ContentStringFormat="NoValidation" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ContactFormFieldTags Tag="{x:Null}" Name="Name" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Name</ListViewItem><ListViewItem ContentStringFormat="Email" IsTabStop="False" x:Uid="Email" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ContactFormFieldTags Tag="Mandate" Name="Email" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Email</ListViewItem><ListViewItem ContentStringFormat="NoValidation" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"><ListViewItem.Tag><ContactFormFieldTags Tag="{x:Null}" Name="Subject" xmlns:ttch="clr-namespace:TemplateToaster.Core.Helpers;assembly=TemplateToaster" /></ListViewItem.Tag>Subject</ListViewItem></contactform></contactforms>
+    </content>
+    <content>
+      <meta_ID>tt_page3</meta_ID>
+      <page_title>Service</page_title>
+      <alias>service</alias>
+      <page_name>Service</page_name>
+      <page_header_id>service</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>08/13/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_service_html_row0 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_service_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:3.11em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:65px;max-width:48px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/Screenshot20210809at121103Home2CarDealer1.png" alt="fg" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.143em;">New Vehicles</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:1.69em;"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">Get yourself nice and relaxed and settled. Concentrate on your breathing, engage in the</span></p><p style="margin:10px 0px 5px 0px;text-align:Center; display:block; "><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Read More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_service_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:3.11em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:65px;max-width:48px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/Screenshot20210809at121057Home2CarDealer1.png" alt="gf" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.143em;">Vehicles Parts</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:1.69em;"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">You will begin to realise why this exercise is called the Dickens Pattern reference</span></p><p style="margin:10px 0px 5px 0px;text-align:Center; display:block; "><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Read More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_service_html_column02">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:3.11em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:65px;max-width:48px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/Screenshot20210809at121052Home2CarDealer1.png" alt="cx" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.143em;">Vehicles Service</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:1.69em;"><span style="font-family:'Montserrat','Arial';font-size:1.143em;">About something that you know you need to be doing, but are not. Then with that thing</span></p><p style="margin:10px 0px 5px 0px;text-align:Center; display:block; "><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Read More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_service_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_service_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.64em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:3.214em;">OUR BEST CAR</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_service_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.9em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:853px;max-width:1280px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/luxuryblacksportcoupeparkingsnowyroadforest1.jpg" alt="dcddvd" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.286em;">2013 JAGUAR X5</span></p><p style="text-align:Center; display:block; line-height:1.9em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.286em;color:rgba(149,0,0,1);">$25,900.00</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_service_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.9em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:853px;max-width:1280px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/redluxurysedanroad1.jpg" alt="fg" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.286em;">2011 HONDA ACCORD</span></p><p style="text-align:Center; display:block; line-height:1.9em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.286em;color:rgba(149,0,0,1);">$36,555.00</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_service_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.9em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:853px;max-width:1280px;margin:0px 0px 20px 0px;" src="<?php echo $template_path; ?>/images/yellowsportcarwithblackautotuningroad1.jpg" alt="fg" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.286em;">2015 Porsche Cayenne</span></p><p style="text-align:Center; display:block; line-height:1.9em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:1.286em;color:rgba(149,0,0,1);">$206,300.00</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_service_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_service_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.72em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.571em;color:rgba(255,255,255,1);">What Our Happy Clients say about us</span></p><p style="text-align:Center; display:block; line-height:3.72em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.571em;color:rgba(255,255,255,1);">Our Testimonial</span></p><p style="text-align:Center; display:block; line-height:1.69em;"><span style="font-family:'Montserrat','Arial';font-size:1.143em;color:rgba(255,255,255,1);"> There are basically six key areas to higher achievement. Some people will tell you there are four while others may tell you there are eight. One thing</span></p><p style="text-align:Center; display:block; line-height:1.69em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:150px;max-width:143.540669856459px;margin:20px 0px 0px 0px;" src="<?php echo $template_path; ?>/images/ayoogunseinde6W4F62sN_yIunsplash21.png" alt="mh" /></span></span><span style="font-family:'Montserrat','Arial';font-size:1.143em;color:rgba(255,255,255,1);">Michael bean</span></p><p style="text-align:Center; display:block; line-height:2.71em;"><br style="font-family:'Poppins','Arial';font-size:1.857em;color:rgba(255,255,255,1);" /></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page4</meta_ID>
+      <page_title>About Us</page_title>
+      <alias>about-us</alias>
+      <page_name>About Us</page_name>
+      <page_header_id>about-us</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>08/13/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_about-us_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;line-height:4.13em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.857em;">About Us</span></p><p style="margin:5px 0px 20px 0px;line-height:1.89em;"><span style="font-family:'Montserrat','Arial';font-size:1.214em;">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</span></p><p style="line-height:1.89em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Read More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:853px;max-width:1280px;margin:0px 0px 0px 0px;" src="<?php echo $template_path; ?>/images/youngcoupletalkingsalespersoncarshowroom.jpg" alt="dc" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row1 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; "><span style="font-family:'Poppins','Arial';font-size:1.571em;color:rgba(255,255,255,1);">Vehicles Stock</span></p><p style="text-align:Center; display:block; "><span style="font-family:'Poppins','Arial';font-weight:700;font-size:5.143em;color:rgba(255,255,255,1);">400</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.3em;"><span style="font-family:'Poppins','Arial';font-size:1.571em;color:rgba(255,255,255,1);">Happy Customer</span></p><p style="text-align:Center; display:block; line-height:7.37em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:5.143em;color:rgba(255,255,255,1);">1500</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.51em;"><span style="font-family:'Poppins','Arial';font-size:1.714em;color:rgba(255,255,255,1);">Dealer Reviews</span></p><p style="text-align:Center; display:block; line-height:7.37em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:5.143em;color:rgba(255,255,255,1);">1000</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.51em;"><span style="font-family:'Poppins','Arial';font-size:1.714em;color:rgba(255,255,255,1);">Awards</span></p><p style="text-align:Center; display:block; line-height:7.37em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:5.143em;color:rgba(255,255,255,1);">450</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.64em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:3.214em;">Our Patners</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row3 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:150px;max-width:300px;margin:0px 0px 0px 0px;" src="<?php echo $template_path; ?>/images/2300x150.png" alt="zx" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column31">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:150px;max-width:300px;margin:0px 0px 0px 0px;" src="<?php echo $template_path; ?>/images/4300x150.png" alt="xc" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column32">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:150px;max-width:300px;margin:0px 0px 0px 0px;" src="<?php echo $template_path; ?>/images/5300x150.png" alt="xcx" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column33">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:150px;max-width:300px;margin:0px 0px 0px 0px;" src="<?php echo $template_path; ?>/images/6300x150.png" alt="sc" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+  </pages>
+  <sidebars />
+  <footers>
+    <footer name="abc0">
+      <block name="footercellcolumn0" tt_blockID="footer_cell0" title="footertext1">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height:1.95em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.333em;color:rgba(255,255,255,1);">Company</span></h4><p style="line-height:2.07em;"><span style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>service</widget_page>
+          <widget_page>about-us</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="abc1">
+      <block name="footercellcolumn1" tt_blockID="footer_cell1" title="footertext2">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height:1.95em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.333em;color:rgba(255,255,255,1);">Pages</span></h4><p style="line-height:2.07em;"><span style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);">Home</span></p><p style="line-height:2.07em;"><span style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);">About</span></p><p style="line-height:2.07em;"><span style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);">Contact</span></p><p style="line-height:2.07em;"><span style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);">Blog</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>service</widget_page>
+          <widget_page>about-us</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="abc2">
+      <block name="footercellcolumn2" tt_blockID="footer_cell2" title="footertext3">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height:1.95em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.333em;color:rgba(255,255,255,1);">Address</span></h4><p style="line-height:2.07em;"><span style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);">123 ABC Ave Street View #456 XYZ</span></p><p style="line-height:2.07em;"><span style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);">New York City</span></p><p style="line-height:2.07em;"><span style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);">NY 10005, USA</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>service</widget_page>
+          <widget_page>about-us</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="abc3">
+      <block name="footercellcolumn3" tt_blockID="footer_cell3" title="footertext4">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height:1.95em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.333em;color:rgba(255,255,255,1);">Get In Touch</span></h4><p style="line-height: normal;"><br style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);" /><img style="margin:0px 15px 0px 0px;" src="images/Facebook.png" /><span style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);">Facebook</span></p><p style="line-height: normal;"><br style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);" /><img style="margin:0px 15px 0px 0px;" src="images/Twitter.png" /><span style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);">Twitter</span></p><p style="line-height: normal;"><br style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);" /><img style="margin:0px 15px 0px 0px;" src="images/LinkedIn.png" /><span style="font-family:'Montserrat','Arial';color:rgba(255,255,255,1);">LinkedIn</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>service</widget_page>
+          <widget_page>about-us</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+  <Shapes>
+    <headershapes>
+      <header name="headershape001">
+        <block name="headershape001" tt_blockID="header_cell00" title="headershape001">
+          <content><![CDATA[<div class="html_content"><p style="line-height:4.94em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:3.429em;color:rgba(255,255,255,1);">Let Us Help You Get You Next Car! </span></p><p style="margin:10px 0px 5px 0px;line-height:4.94em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">Contact Us</a></span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>service</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>blog</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+      <header name="headershape012">
+        <block name="headershape012" tt_blockID="header_cell11" title="headershape012">
+          <content><![CDATA[<div class="html_content"><p style="text-align:Center; display:block; line-height:3.72em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.571em;color:rgba(255,255,255,1);">Contact</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>contact</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+      <header name="headershape022">
+        <block name="headershape022" tt_blockID="header_cell21" title="headershape022">
+          <content><![CDATA[<div class="html_content"><p style="text-align:Center; display:block; line-height:3.72em;"><span style="font-family:'Poppins','Arial';font-weight:700;font-size:2.571em;color:rgba(255,255,255,1);">Services</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>service</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+      <header name="headershape032">
+        <block name="headershape032" tt_blockID="header_cell31" title="headershape032">
+          <content><![CDATA[<div class="html_content"><p style="text-align:Center; display:block; line-height:3.72em;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:2.571em;color:rgba(255,255,255,1);">About Us</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>about-us</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+    </headershapes>
+    <slideshowshapes />
+    <menushapes />
+    <footershapes />
+  </Shapes>
+</sitecontent>
