@@ -67,3 +67,11 @@
 2025-04-16	21:18:56	INFO	Attività terminata con successo#02 in 0.00 (rete 0.00) secondi.
 2025-04-16	21:18:58	INFO	Esecuzione attività#03 'Update Notification'.
 2025-04-16	21:18:59	INFO	Attività terminata con successo#03 in 0.41 (rete 0.41) secondi.
+2025-04-17	23:28:19	INFO	Esecuzione attività#02 'Session GC'.
+2025-04-17	23:28:19	INFO	Attività> SessionGC end
+2025-04-17	23:28:19	INFO	Attività terminata con successo#02 in 0.00 (rete 0.00) secondi.
+2025-04-18	08:44:11	INFO	Esecuzione attività#03 'Update Notification'.
+2025-04-18	08:44:13	INFO	Attività> SMTP Error: The following recipients failed: amzon@BEBMECCANICA.IT: <amzon@BEBMECCANICA.IT>: Recipient address rejected: User unknown in virtual alias table
+
+2025-04-18	08:44:13	INFO	Attività> UpdateNotification end
+2025-04-18	08:44:13	INFO	Attività terminata con successo#03 in 2.13 (rete 2.13) secondi.

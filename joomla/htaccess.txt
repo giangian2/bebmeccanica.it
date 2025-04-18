@@ -60,6 +60,9 @@ Options -Indexes
 ## These directives are only enabled if the Apache mod_rewrite module is enabled
 <IfModule mod_rewrite.c>
 	RewriteEngine On
+        
+        RewriteCond %{HTTPS} off
+        RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI}
 
 	## Begin - Rewrite rules to block out some common exploits.
 	# If you experience problems on your site then comment out the operations listed
