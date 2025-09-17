@@ -12,14 +12,14 @@ services:
       - db
     volumes:
       - ./joomla:/var/www/html
-      - ./etc/letsencrypt:/etc/letsencrypt:ro 
+      - ./etc/letsencrypt:/etc/letsencrypt:ro
       - ./certbot/data:/var/www/certbot
     ports:
       - "80:80"
       - "443:443"
     networks:
       - joomla-net
-  
+
   db:
     image: mysql:8.0.13
     restart: always
@@ -68,11 +68,28 @@ services:
       - joomla
     command: >-
              certonly --reinstall --webroot --webroot-path=/var/www/certbot
-             --email gianluca.bianchi0899@gmail.com --agree-tos --no-eff-email
-             -d preprod.bebmeccanica.it
+             --email info@bebmeccanica.it --agree-tos --no-eff-email
+             -d www.bebmeccanica.it
     volumes:
       - ./etc/letsencrypt:/etc/letsencrypt
       - ./certbot/data:/var/www/certbot
+
+  mysql_backup:
+    build:
+      context: ./backup
+      dockerfile: ./Dockerfile
+    container_name: mysql_backup
+    depends_on:
+      - db
+    environment:
+      #- DB_DUMP_TARGET=s3://backupservervesta/database/bebmeccanica.it/
+      - AWS_DEFAULT_REGION=us-east-1
+      - AWS_ACCESS_KEY_ID=AKIA456ZQD37WNDORQ2Q
+      - AWS_SECRET_ACCESS_KEY=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
+    volumes:
+      - ./backup:/backup
+    networks:
+      - joomla-net
 
 networks:
   joomla-net:
