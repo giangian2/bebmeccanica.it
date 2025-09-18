@@ -84,8 +84,8 @@ services:
     environment:
       #- DB_DUMP_TARGET=s3://backupservervesta/database/bebmeccanica.it/
       - AWS_DEFAULT_REGION=us-east-1
-      - AWS_ACCESS_KEY_ID=AKIA456ZQD37WNDORQ2Q
-      - AWS_SECRET_ACCESS_KEY=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
+      - AWS_ACCESS_KEY_ID=
+      - AWS_SECRET_ACCESS_KEY=
     volumes:
       - ./backup:/backup
     networks:
